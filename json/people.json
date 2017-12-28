@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "romain",
+        "last": "hoogmoed"
+      },
+      "location": {
+        "street": "1861 jan pieterszoon coenstraat",
+        "city": "maasdriel",
+        "state": "zeeland",
+        "postcode": 69217
+      },
+      "email": "romain.hoogmoed@example.com",
+      "dob": "1983-07-14 07:29:45",
+      "registered": "2010-09-24 02:10:42",
+      "phone": "(656)-976-4980",
+      "cell": "(065)-247-9303",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "mrs", "first": "rebecca", "last": "smith" },
+      "location": {
+        "street": "2242 jones road",
+        "city": "houston",
+        "state": "texas",
+        "postcode": 69217
+      },
+      "email": "rebecca.smith@example.com",
+      "dob": "1984-02-14 09:24:23",
+      "registered": "2011-07-22 02:10:42",
+      "phone": "(404)-376-1940",
+      "cell": "(569)-147-5303",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+      },
+      "nat": "USA"
+    }
+  ]
+}

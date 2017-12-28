@@ -1,0 +1,83 @@
+{
+  "makes": [
+    {
+      "name": "Acura",
+      "niceName": "acura",
+      "models": [
+        {
+          "id": "Acura_CL",
+          "name": "CL",
+          "niceName": "cl",
+          "years": [
+            {
+              "year": 1997
+            },
+            {
+              "year": 1998
+            },
+            {
+              "year": 1999
+            },
+            {
+              "year": 2001
+            },
+            {
+              "year": 2002
+            },
+            {
+              "year": 2003
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alfa Romeo",
+      "niceName": "alfa-romeo",
+      "models": [
+        {
+          "id": "Alfa_Romeo_4C",
+          "name": "4C",
+          "niceName": "4c",
+          "years": [
+            {
+              "year": 2015
+            },
+            {
+              "year": 2016
+            },
+            {
+              "year": 2017
+            },
+            {
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "id": "Alfa_Romeo_Giulia",
+          "name": "Giulia",
+          "niceName": "giulia",
+          "years": [
+            {
+              "year": 2017
+            },
+            {
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "id": "Alfa_Romeo_Stelvio",
+          "name": "Stelvio",
+          "niceName": "stelvio",
+          "years": [
+            {
+              "year": 2018
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
