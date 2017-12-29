@@ -1,0 +1,28 @@
+{
+  "food": [
+    {
+      "name": "calzone",
+      "originates": "italy"
+    },
+    {
+      "name": "pizza",
+      "originates": "italy"
+    },
+    {
+      "name": "burger",
+      "originates": "america"
+    },
+    {
+      "name": "taco",
+      "originates": "mexico"
+    },
+    {
+      "name": "burrito",
+      "originates": "mexico"
+    },
+    {
+      "name": "curry",
+      "originates": "india"
+    }
+  ]
+}
